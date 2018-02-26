@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/spark-assignment-02/target/scala-2.11/spark-assignment-02_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shoping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/shoping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shoping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/shoping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	joiingOfTwoFiles$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/joiingOfTwoFiles$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/spark-assignment-02/target/scala-2.11/classes/customer$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
